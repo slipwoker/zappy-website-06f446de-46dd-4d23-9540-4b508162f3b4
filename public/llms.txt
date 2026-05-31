@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: geofeel@feelfilon.com
+- Phone: +972549447707
+- Phone (tel): tel:+972549447707
+- Address: ישמח מלך 33, ירושלים, 9412124, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
