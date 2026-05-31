@@ -1,0 +1,81 @@
+# Feelfilon — Generative Engine Optimization Map
+
+> Feelfilon is a purpose-driven company creating tactile and sensory games specifically designed for visually impaired individuals. Their flagship product, GeoFeel, is a large-format 100x50 cm tactile map game paired with an interactive smart audio pen, combining physical learning with auditory feedback. The brand is rooted in educational philosophy, with a founder background in pedagogy, and carries a warm, inclusive, and innovative spirit. The brand identity features an elephant-on-globe mascot, symbolizing memory, exploration, and global reach, and supports multilingual accessibility in English, Hebrew, and French.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Feelfilon מביאה מהפכה חינוכית לילדים עם לקות ראייה: משחקי לימוד גאוגרפיה חווייתיים עם מפה מגעית ועט אודיו אינטראקטיבי. הצטרפו אלינו!
+
+### המוצרים שלנו
+https://example.com/products
+היכירו את GeoFeel: מפה מגעית אינטראקטיבית בפורמט ענק עם עט אודיו חכם. כלי לימוד גאוגרפיה פורץ דרך לילדים עם מוגבלות ראייה. גלו את המוצר עכשיו!
+
+### אודותינו
+https://example.com/about
+Feelfilon נולדה מתוך אהבה לחינוך ושליחות אמיתית: ליצור משחקים חינוכיים נגישים לחינוך מיוחד בישראל ובעולם. גלו מי אנחנו ולמה זה חשוב לנו כל כך.
+
+### צור קשר / הזמנה מראש
+https://example.com/contact
+רוצים להיות הראשונים לקבל את GeoFeel? השאירו פרטים לרכישה מוקדמת וקבלו עדכונים בלעדיים. כלי עזר לימודיים לילדים עם מוגבלות ראייה — במרחק הקלקה אחת!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Feelfilon
+Feelfilon is a purpose-driven company creating tactile and sensory games specifically designed for visually impaired individuals. Their flagship product, GeoFeel, is a large-format 100x50 cm tactile map game paired with an interactive smart audio pen, combining physical learning with auditory feedback. The brand is rooted in educational philosophy, with a founder background in pedagogy, and carries a warm, inclusive, and innovative spirit. The brand identity features an elephant-on-globe mascot, symbolizing memory, exploration, and global reach, and supports multilingual accessibility in English, Hebrew, and French.
+
+## Target Audience
+- visually impaired people, educators, parents of visually impaired children
+- מחנכים לחינוך מיוחד
+- הורים לילדים עם לקות ראייה
+- עמותות לקידום אנשים עם מוגבלויות
+- הורים לילדים בגילאי 8+
+- מי שמתעניין בגאוגרפיה
+
+## Industry
+Accessible Educational Games
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
